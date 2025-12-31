@@ -1,0 +1,6 @@
+
+{
+  "name": "Nambikkai Event Pro - War Room",
+  "description": "Professional event management war-room for Nambikkai launch with real-time tracking, VVIP protocols, and GST-ready financials.",
+  "requestFramePermissions": ["microphone"]
+}
